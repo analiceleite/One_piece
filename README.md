@@ -10,5 +10,5 @@
   <li>CSS</li>
 </ul>
 
-<h3> Você pode acessar o projeto por meio do link: https://analiceleite.github.io/projeto_calculadora_de_medias/ </h3>
+<h3> Afim de aplicar conceitos de CI/CD, realizei o deploy pelo git pages, está neste link: https://analiceleite.github.io/One_piece/ </h3>
 <img src= "https://img.shields.io/badge/Status-In Progress-yellow"/>
